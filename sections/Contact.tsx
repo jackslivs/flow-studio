@@ -33,7 +33,7 @@ export const Contact = () => {
         <p>Email Us:</p>
         <form
           className="flex flex-col space-y-6 w-full lg:w-[calc(30ch+12vw)]"
-          action="https://formsubmit.co/heyflowstudio@gmail.com"
+          action="https://formspree.io/f/mzbwnwbn"
           method="POST"
         >
           <TextInput
